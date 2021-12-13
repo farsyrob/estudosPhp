@@ -1,7 +1,9 @@
 <?php
 
+$saudacao = "Olá ";
 $nome = "Greg";
-$sobrenome = "Heffley";
-$saudacao = "Olá seu baitola! Seu nome é legal, ";
+$sobrenome = "Faro";
 
-echo $saudacao . $nome . " " . $sobrenome;
+echo $saudacao . $nome . " " . $sobrenome . "<br>";
+
+?>
